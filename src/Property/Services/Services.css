@@ -1,0 +1,31 @@
+h1{
+    color: rgb(63, 63, 63);
+}
+.Icon{
+    margin: auto;
+    color: grey;
+
+
+}
+
+.title{
+    margin: auto;
+    font-size:medium !important;
+    padding: 20px;
+    color: rgb(63, 60, 60);
+}
+
+.card1{
+    margin: auto;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color: snow !important;
+    border-radius: 40px !important;
+    border-color: white;
+}
+
+.card1:hover{
+    
+    border-color: lightskyblue !important;
+}

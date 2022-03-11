@@ -1,0 +1,28 @@
+.property_img2{
+    margin: auto;
+    padding: 20px;
+    width: 600px;
+    height: 300px;
+}
+
+h5{
+    padding: 20px;
+}
+
+ h4{
+    padding: 10px;
+    color: blue;
+    margin: auto;
+}
+
+h1{
+    padding: 10px !important;
+    color: blue !important;
+    margin: auto;
+}
+
+h5{
+    padding: 10px !important;
+    color: blue !important;
+    margin: auto;
+}

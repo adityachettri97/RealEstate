@@ -1,0 +1,34 @@
+h1{
+    margin-top: 20px;
+    padding: 20px;
+}
+
+
+
+.left{
+    margin-top: 20px;
+    margin-left: 200px;
+    border-color: aliceblue;
+}
+
+.right{
+    margin-top: 40px;
+    border-color: aliceblue;
+}
+
+.tcard{
+    margin: auto;
+    border: white !important;
+    
+}
+
+.icard{
+    margin-top: 20px;
+    margin-left: 60px ;
+    border: white !important;
+   
+}
+.img{
+    height: 250px;
+    width: 600px;
+}

@@ -1,0 +1,73 @@
+footer{
+    position: relative;
+    width: 100%;
+    height: auto;
+    padding: 50px 100px;
+    background: rgb(61, 61, 61);
+}
+.fcontainer{
+        width: 100%;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-gap: 20px;
+}
+footer .fcontainer .aboutus  {
+    position: relative;
+    color: white;
+    font-weight: 500;
+    margin-bottom: 15px;
+
+}
+
+footer .fcontainer .quicklinks  {
+    position: relative;
+    color: white;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+footer .fcontainer .Popular {
+    position: relative;
+    color: white;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+footer .fcontainer .Cont {
+    position: relative;
+    color: white;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+.sci{
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: repeat(5,40px);
+    grid-gap:10px
+}
+.sci li{
+    list-style: none;
+}
+.sci li a{
+    display: inline-block;
+    width:48px;
+    height: 48px;
+    /* background: white; */
+    display: grid;
+    align-content: center;
+    justify-content: center;
+    text-decoration: none;
+    border-radius: 3px;
+}
+.icon{
+    color: lightgrey;
+}
+.icon:hover{
+    color: dimgray;
+}
+.link{
+    color: white;
+    text-decoration: none;
+
+}
+.li{
+   list-style-type: none;
+}

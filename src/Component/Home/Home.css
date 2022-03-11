@@ -1,0 +1,34 @@
+.d-block{
+    width: 1500px;
+    height: 500px;
+}
+.btn1{
+    color: white!important;
+    border-color: rgb(99, 99, 247) !important;
+
+}
+.btn1:hover{
+    background-color: rgb(99, 99, 247) !important;
+}
+.nav2{
+    color: white!important;
+}
+
+.cc{
+    bottom: 180px !important;
+    padding-left: 100px !important;
+    padding-right: 100px !important;
+    
+}
+
+.cc h3{
+    font-size: 60px !important;
+    -webkit-text-stroke: 1px grey !important;
+    font-weight: bolder !important;
+}
+
+.cc p{
+    font-size: 20px !important;
+    font-weight: bolder !important;
+    -webkit-text-stroke: 1px grey !important;
+}

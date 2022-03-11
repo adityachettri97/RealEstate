@@ -1,0 +1,123 @@
+{"Property":[{
+    "p_name": "Residential",
+    "p_id": "P01",
+    "p_image": "../../../images/residential.jpg",
+    "description":"Flats are available",
+    "subProperty":[{
+                        "s_id":"PS01",
+                        "estate": "Dream Land Apartment",
+                        "s_img": "../../../images/apartment.jpg",
+                        "s_img2": "../../../images/apartment2.jpg",
+                        "Price": "₹ 35.2LAC - ₹ 65.1LAC ",
+                        "s_description": "Houses for small family available near Mall Roads, lane No.6  "
+                     },
+                     {
+                        "s_id":"PS03",
+                        "estate": "1BHK flat",
+                        "s_img": "../../../images/college.jpg",
+                        "s_img2": "../../../images/college2.jpg",
+                        "Price": "₹ 7000",
+                        "s_description": "Rent available for college students only "
+                     }]
+},
+                    
+    {
+    "p_name": "Commercial",
+    "p_id": "P02",
+    "p_image": "../../../images/commercial.jpg",
+    "description":"Rent for commercial offices or any kind related to commercial",
+    "subProperty":[{
+                        "s_id":"PS01",
+                        "estate": "Commercial office in rent",
+                        "s_img": "../../../images/office.jpg",
+                        "s_img2": "../../../images/office2.jpg",
+                        "Price": "₹ 25,000",
+                        "s_description": "Private office for agriculture department "
+
+                     },
+                     {
+                        "s_id":"PS02",
+                        "estate": "Departmental Store for sale",
+                        "s_img": "../../../images/depart.jpg",
+                        "s_img2": "../../../images/depart2.jpg",
+                        "Price": "₹ 1.5Cr",
+                        "s_description": "Departmental Store in rent  "
+                     },
+                     {
+                        "s_id":"PS03",
+                        "estate": "It Sector office in rent",
+                        "s_img": "../../../images/it.jpg",
+                        "s_img2": "../../../images/it2.jpg",
+                        "Price": "₹ 22,000",
+                        "s_description": "Office rent for start up IT sector "
+                     }]
+    },
+                    
+    {
+    "p_name": "Warehouse",
+    "p_id": "P03",
+    "p_image": "../../../images/warehouse.jpg",
+    "description":"Tabs",
+    "subProperty":[{
+                        "s_id":"PS01",
+                        "estate": "Distribute",
+                        "s_img": "../../../images/center.jpg",
+                        "s_img2": "../../../images/center2.jpg",
+                        "Price": "₹ 10.1Cr",
+                        "s_description": "Distribution Center near Siliguri "
+
+                     },
+                     {
+                        "s_id":"PS02",
+                        "estate": "Private",
+                        "s_img": "../../../images/private.jpg",
+                        "s_img2": "../../../images/private2.jpg",
+                        "Price": "₹ 7.5Cr",
+                        "s_description": "Private warehouse in Sevoke Road, Siliguri "
+                     },
+                     {
+                        "s_id":"PS03",
+                        "estate": "Public",
+                        "s_img": "../../../images/godown.jpg",
+                        "s_img2": "../../../images/godown2.jpg",
+                        "Price": "₹ 6.1Cr",
+                        "s_description": "Godown in Rent  "
+                     }]
+    },
+
+        {
+    "p_name": "Land",
+    "p_id": "P04",
+    "p_image": "../../../images/land.jpg",
+    "description":"Tabs",
+    "subProperty":[{
+                        "s_id":"PS01",
+                        "estate": "Industry",
+                        "s_img": "../../../images/industry.jpg",
+                        "s_img2": "../../../images/industry2.jpg",
+                        "Price": "₹ 8.3Cr",
+                        "s_description": "Land in sale for Industry and factory "
+
+                     },
+                     {
+                        "s_id":"PS02",
+                        "estate": "House Plot",
+                        "s_img": "../../../images/houseland.jpg",
+                        "s_img2": "../../../images/houseland2.jpg",
+                        "Price": "₹ 3.2Cr",
+                        "s_description": "Land in sale for House "
+                     },
+                     {
+                        "s_id":"PS03",
+                        "estate": "Apartment Land",
+                        "s_img": "../../../images/apartmentland.jpg",
+                        "s_img2": "../../../images/apartmentland2.jpg",
+                        "Price": "₹ 6.9Cr",
+                        "s_description": "Land in sale for Apartments"
+                     }]
+    }
+    
+                    
+
+]}
+                     

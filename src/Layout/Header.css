@@ -1,0 +1,19 @@
+.head{
+    color: white !important;
+}
+.head:hover{
+    color: dimgrey !important;
+}
+.head2{
+    color: white !important;
+    margin-left: 550px;
+}
+.head2:hover{
+    color: dimgrey !important;
+}
+.head3{
+    color: white !important;
+}
+.head3:hover{
+    color: dimgrey !important;
+}
